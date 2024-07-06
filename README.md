@@ -47,3 +47,8 @@ There are two versions of this game. One is 2-Dimensional while the other one, M
 **DEBUG KEYS FOR M.A.R.S**
 1. Press "C" to turn off collisions of the rocket
 2. Press "L" to load the next level
+
+### DOWNLOAD LINKS
+
+**M.A.R.S**: *https://github.com/pervelaHemanth23/Project-Boost/archive/refs/heads/main.zip*
+**Project Boost 2D**: *https://github.com/pervelaHemanth23/Project-Boost/archive/refs/heads/main.zip*
