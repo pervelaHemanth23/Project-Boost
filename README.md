@@ -50,5 +50,6 @@ There are two versions of this game. One is 2-Dimensional while the other one, M
 
 ### DOWNLOAD LINKS
 
-**M.A.R.S**: *https://github.com/pervelaHemanth23/Project-Boost/archive/refs/heads/main.zip*
-**Project Boost 2D**: *https://github.com/pervelaHemanth23/Project-Boost/archive/refs/heads/main.zip*
+[M.A.R.S](https://github.com/pervelaHemanth23/Project-Boost/archive/refs/heads/main.zip)
+
+[Project Boost 2D](https://github.com/pervelaHemanth23/Project-Boost/archive/refs/heads/main.zip)
