@@ -1,18 +1,34 @@
-# M.A.R.S
+# M.A.R.S and Project Boost 2D
 
 **Help the rocket safely explore the unexplored depths of caves on Mars**
 
-This is the spiritual successor to Project Boost but much more well realised and a bit more responsive 
+The controls:
+1. Use the "SpaceBar" key to thrust the Rocket in the direction
+2. Use the 'A' and 'D' keys to change the direction of the Rocket
 
-There are a few bugs but they are not jarring or game breaking
+There are two versions of this game. One is 2-Dimensional while the other one, M.A.R.S is 3-Dimensional
 
-The controls are that you can use the main thruster with the SpaceBar while the left and right thrusters that rotate the rocket can be accessed using A or D keys
+## Project Boost
+### Features of The 2-Dimensional version:
+1. Interactive Menu with animations
+2. The rocket MUST land upright on the ending platform or it will get destroyed
+3. Animated loading screens
 
-*I implemented a lot more concepts and this games looks and feels cleaner than most of my previous projects like Coroutines, Sine waves, Terrain, Particle Effects, Audio & Lighting*
+### SCREENSHOTS
+
+## M.A.R.S
+### Features of The 3-Dimensional version:
+1. Many levels to play
+2. Polished animations and gameplay
+3. Added audio
+4. Visually interesting with fog and varied environments
+5. Some surprising twists in the later stages
+6. *not-so-super-secret* secret debug keys ;)
+
+### SCREENSHOTS
 
 ## Thank You!
 
-*P.S. There are a few DEBUG keys that help me playtest the levels easier.*
-
+**DEBUG KEYS**
 1. Press "C" to turn off collisions of the rocket
 2. Press "L" to load the next level
